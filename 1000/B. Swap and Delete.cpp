@@ -1,4 +1,4 @@
-count number of 1's and 0's.
+count number of 1s and 0s.
   Now as we place the opposite chars in the new string decrement its cnt, say we place 0 so do cnt0--;
   Do this until we are out of counts. The remaining string is your ans.
 
